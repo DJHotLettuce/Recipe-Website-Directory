@@ -11,7 +11,7 @@ Help is needed in order to scale up the list of websites so any submissions or s
 
 There are 2 ways to contribute links to the directory.
 1. Submit links using the form at https://iri.cooking/contact.php
-2. Create a pull request here on the repository. Then add an entry to 'sites.ini' file according to the guidelines listed below.
+2. Fork this repo, add an entry to 'sites.ini' file according to the guidelines listed below. Then submit a pull request
 
 ## Submission Guidelines
 
