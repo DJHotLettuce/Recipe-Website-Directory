@@ -1,4 +1,4 @@
-# Recipe-Website-Directory
+# Recipe Website Directory
 A crowd-sourced directory of high quality recipe websites. The websites are crawled and indexed to create a special purpose recipe search engine which can be found at https://iri.cooking
 
 The theory behind this project is that a human managed web directory can serve as the basis for higher quality search engines. Because we're not crawling the entire web, the project requires very little compute resources.
